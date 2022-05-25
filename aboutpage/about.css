@@ -1,0 +1,23 @@
+.center
+{
+    height: 90vh;
+    width:130vh;
+    background-color: rgb(241, 235, 226);
+    translate: 50px;
+    size: 50 10px;
+    margin-left: 25%;
+}
+.htext h1
+{
+    color: rgb(121, 22, 37);
+    size: 10px;
+    margin-bottom: -20px;
+}
+.intext
+{
+    background-color:rgb(241, 235, 226);
+     height: 70vh;
+    width: 100vh;
+    color:rgb(153, 187, 32) ;
+    margin-left:12%;
+}
